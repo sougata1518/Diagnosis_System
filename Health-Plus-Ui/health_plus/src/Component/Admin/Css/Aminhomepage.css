@@ -1,0 +1,18 @@
+.navAd{
+    width: 100%;
+    height: 60px;
+    background-color: #1a504c;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #fff;
+    text-align: center;
+}
+
+.logout{
+    font-size: 40px;
+}
+
+.logdiv{
+    padding-left:930px;
+    padding-top: 7px;
+}

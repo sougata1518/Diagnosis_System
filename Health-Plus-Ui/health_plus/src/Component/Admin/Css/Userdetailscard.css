@@ -1,0 +1,23 @@
+.mainDiv{
+    text-align: center;
+}
+
+h1{
+    color: #156f6c;
+}
+
+table{
+    border: 2px solid black;
+    font-weight: 100px;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+tr:nth-child(even){
+    background-color: #156f6c;
+}
+
+td,th{
+    border: 1px solid black;
+}

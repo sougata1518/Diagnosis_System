@@ -1,0 +1,103 @@
+.fullcard{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.error{
+    color: red;
+    font-size: 14px;
+}
+
+.error.show{
+    
+}
+
+ .card1{
+    border: 1px solid #dcdfce;
+    background-color: #fff;
+    border-radius: 5px;
+    height: 500px;
+    width: 250px;
+}
+
+ .im{
+    height: 90px;
+    width: 90px;
+    margin: 18px 74px;
+    border-radius: 50%;
+}
+
+.user-detail{
+    text-align: center;
+    margin-top: -5px;
+} 
+
+.user-detail h5{
+    font-size: 22px;
+    font-family: 'Sans-serif';
+  
+}
+
+.user-detail h6{
+    font-size: 15px;
+    margin-top: -1px;
+    font-weight: 300;
+    font-family: "Times New Roman", Times, serif;
+}  
+
+
+.card2{
+    border: 1px solid #dcdfce;
+    background-color: #fff;
+    margin: 0px 29px;
+    border-radius: 5px;
+    width: 800px;
+}
+
+.card-body{
+    padding-left: 25px;
+}
+
+.details{
+    color: rgb(0, 119, 255);
+    font-size: 20px;
+    margin-top: 19px;
+    font-weight: 500;
+    font-family: 'Sans-serif';
+}
+
+.sec{
+    margin-top: 0px;
+}
+
+.user-details{
+    display: flex;
+    margin-top: 15px;
+}
+
+input{
+    height: 30px;
+    width: 350px;
+    margin: 10px 10px;
+}
+
+label{
+    margin-right: 100px;
+}
+
+
+
+.btnsec{
+    text-align: right;
+    margin-right: 27px;
+    margin-top: 10px;
+}
+
+.btn{
+    height: 40px;
+    width: 80px;
+    margin-left: 10px;
+    border-radius: 4px;
+    padding: 10px;
+}

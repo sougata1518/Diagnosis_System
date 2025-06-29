@@ -1,0 +1,95 @@
+.cartitems{
+    margin: 2px 40px;
+ }
+ 
+ .cartitems hr{
+     height: 3px;
+     background: #e2e2e2;
+     border: 0;
+ }
+ 
+ .cartitems-format-main{
+     display: grid;
+     grid-template-columns: 0fr 310px 2fr 2.5fr 150px;
+     align-items: center;
+     column-gap: 30px;
+     padding: 20px 0px;
+     color: #454545;
+     font-size: 18px;
+     font-weight: 600;
+ }
+
+ .pa{
+    margin-left: 90px;
+    text-align: center;
+ }
+
+ .sect{
+    text-align: center;
+ }
+ 
+ .cartitems-format{
+     display: grid;
+     grid-template-columns: 0.5fr 250fr 100px 200px 2fr;
+     column-gap: 10px;
+     font-size: 17px;
+     font-weight: 500;
+     margin-left: 100px;
+ }
+ 
+ .carticon-product-icon{
+     height: 82px;
+ }
+ 
+ .cartitems-quantity{
+     height: 35px;
+     background: #fff;
+ }
+ 
+ .cartitems-down{
+     display: flex;
+     margin: 100px 250px;
+ }
+
+ .rmv{
+    font-size: 14px;
+    margin-top: 26px;
+    text-align: center;
+    color: #1a504c;
+    cursor: pointer;
+ }
+
+ .rmv:hover{
+    text-decoration: underline;
+ }
+ 
+ .cartitems-total{
+     flex: 1;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     gap: 1px;
+ }
+ 
+ .cartitems-total-item{
+     display: flex;
+     justify-content: space-between;
+     padding: 1px 0px;
+ }
+ 
+ .cartitems-total button{
+     width: 262px;
+     height: 50px;
+     margin: auto;
+     outline: none;
+     border: none;
+     background: #ff5a5a;
+     color: #fff;
+     font-size: 16px;
+     font-weight: 600;
+     cursor: pointer;
+ }
+
+ .card-total{
+    text-align: center;
+ }

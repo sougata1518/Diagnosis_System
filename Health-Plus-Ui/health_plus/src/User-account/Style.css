@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,800");
+
+* {
+  box-sizing: border-box;
+}
+
+.account-card {
+  background: #f6f5f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Montserrat", sans-serif;
+  /* height: 100vh; */
+  margin: 10px 50px;
+}
+
+.otp{
+  color: #787777b4;
+  font-size: 14px;
+  text-decoration: none;
+  margin: 15px 0;
+  cursor: pointer;
+}
+
+.otp:hover{
+  color: red;
+}
